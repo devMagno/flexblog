@@ -28,6 +28,9 @@ img {
 .top-info-bg a {
   color: white;
 }
+.top-info-bg a:hover {
+  text-decoration: underline;
+}
 .top-info {
   max-width: 960px;
   margin: 0 auto;
