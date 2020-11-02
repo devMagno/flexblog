@@ -7,11 +7,20 @@ menuItems.forEach(item => {
 function scrollToIdOnClick(event) {
   event.preventDefault()
   const element = event.target
-  const id = element.getAttribute('href')
-  const to = document.querySelector(id).offsetTop
+  const to = getScrollTopByHref(event.target)
 
+  scrollToPosition(to)
+}
+
+function scrollToPosition(to) {
   window.scroll({
     top: to,
     behavior: "smooth",
   })
+}
+
+
+function getScrollTopByHref(element) {
+  const id = element.getAttribute('href')
+  return document.querySelector(id).offsetTop
 }
