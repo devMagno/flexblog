@@ -313,6 +313,7 @@ img {
   margin: 0px;
   border-radius: 0px;
   padding: 15px 10px;
+  transition: all .2s;
 }
 .newsletter-form button {
   flex: 1 1 200px;
@@ -327,6 +328,16 @@ img {
   text-transform: uppercase;
   margin: 0;
   padding: 15px 10px;
+  transition: all .2s;
+}
+.newsletter-form button:hover {
+  background-color: #2137b8;
+}
+.newsletter-form input:hover, .newsletter-form input:focus {
+  border: 4px solid #2137b8;
+}
+.newsletter-form input:hover + button, .newsletter-form input:focus + button {
+  background-color: #2137b8;
 }
 @media screen and (max-width: 600px) {
   .newsletter-form button {
