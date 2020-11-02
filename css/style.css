@@ -112,3 +112,37 @@ img {
   flex: 1 1 160px;
   margin: 0 10px;
 }
+
+.products {
+  max-width: 960px;
+  margin: 60px auto;
+}
+.products h1 {
+  font-size: 3em;
+  margin: 0 10px 60px 10px;
+}
+.products-container {
+  display: flex;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+.product-item {
+  flex: 1 1 175px;
+  margin: 10px;
+  border-top: 8px solid currentColor;
+}
+.product-item h2 {
+  font-size: 3em;
+  color: #A4A4A4;
+  background: #F7F7F7;
+  padding: 60px 20px;
+}
+.purple {
+  color: #AE81FF;
+}
+.pink {
+  color: #F9265A;
+}
+.blue {
+  color: #66D9EB;
+}
