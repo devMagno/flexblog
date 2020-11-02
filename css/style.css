@@ -215,4 +215,17 @@ img {
   font-size: 2.25em;
   padding: 15px 0;
 }
+@media (max-width: 800px) {
+  .prices {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+@media (max-width: 596px) {
+  .prices-item:nth-child(3) {
+    order: -2;
+  }
+  .prices-item:nth-child(2) {
+    order: -1;
+  }
 }
