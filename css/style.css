@@ -39,3 +39,39 @@ img {
 .top-info p, .top-info a {
   margin: 0 10px 10px 10px;
 }
+
+
+.menu-bg {
+  background: #2C70FF;
+}
+.menu {
+  display: flex;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 15px 0;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.menu a {
+  color: white;
+}
+.menu-logo a{
+  font-weight: 700;
+  font-size: 2.25em;
+  margin: 0 10px;
+  user-select: none;
+}
+.menu nav ul{
+  display: flex;
+  flex-wrap: wrap;
+}
+.menu nav ul li a {
+  display: block;
+  font-size: 1.25em;
+  padding: 10px;
+  transition: color .2s;
+}
+.menu nav ul li a:hover {
+  color: #122AB2;
+}
