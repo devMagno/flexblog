@@ -328,3 +328,10 @@ img {
   margin: 0;
   padding: 15px 10px;
 }
+@media screen and (max-width: 600px) {
+  .newsletter-form button {
+    font-size: 1.5em;
+  }
+}
+
+}
