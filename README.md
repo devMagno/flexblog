@@ -14,7 +14,9 @@
 ---
 
 ## 🖥️ Demonstração
+[![FlexBlog](https://i.imgur.com/DIdmfIb.png "Clique para acessar o projeto")](https://devmagno.github.io/flexblog/ "Clique para acessar o projeto")   
 
+Você pode acessar o projeto clicando [aqui](https://devmagno.github.io/flexblog/).
 
 ---
 
