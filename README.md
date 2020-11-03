@@ -1,4 +1,7 @@
 # FlexBlog 🟦
+<p align="center">
+<img src="https://i.imgur.com/6Dx5SPF.png" alt="FlexBlog" title="FlexBlog">
+</p>
 
 ## 📖 Sobre   
 
