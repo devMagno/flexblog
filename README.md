@@ -4,7 +4,7 @@
 </p>
 
 ## 📖 Sobre   
-
+O projeto **FlexBlog** foi desenvolvido durante o curso de **CSS Flexbox** da **[Origamid](https://origamid.com)**. Durante o curso, inicialmente é feita uma introdução à todas as propriedades do flexbox (tanto dos _flex containers_ quanto dos _flex items_) e logo em seguida, aplicamos **na prática** os conceitos aprendidos desenvolvendo o **FlexBlog**, um blog fictício feito utilizando somente as **propriedades Flexbox** do **CSS3**, que resulta em um **design inteiramente responsivo** com utilização mínima de _media queries_. Além disso, implementei um scroll suave dos links internos utilizando **JavaScript**.
 
 ---
 
