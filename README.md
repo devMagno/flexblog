@@ -25,6 +25,7 @@ Você pode acessar o projeto clicando [aqui](https://devmagno.github.io/flexblog
 
 ## 🔧 Como executar o projeto
 
+Não há necessidade de executar o projeto, pois você pode visualizá-lo clicando no link acima, mas se ainda desejar fazê-lo, siga as instruções abaixo:
 ```bash
 # Clone o repositório
 git clone https://github.com/devMagno/flexblog
