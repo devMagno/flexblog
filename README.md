@@ -9,7 +9,10 @@
 ---
 
 ## 🚀 Tecnologias e ferramentas utilizadas
-
+- **HTML5**
+- **CSS3 [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceitos_Basicos_do_Flexbox)**
+- **JavaScript** (para o sroll suave dos links internos)
+- **[Brackets](http://brackets.io/)** 
 
 ---
 
